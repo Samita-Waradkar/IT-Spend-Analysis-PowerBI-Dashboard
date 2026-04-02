@@ -46,11 +46,11 @@ The goal is to identify cost drivers, spending patterns, and regional variations
 
 ### 📌 Report View
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### 📌 Data Model
 
-![Model](images/model.png)
+![Dashboard](Model View.png)
 
 ---
 
@@ -71,10 +71,3 @@ The goal is to identify cost drivers, spending patterns, and regional variations
 
 ---
 
-## 🔹 Project Files
-
-* `/dashboard` → Power BI file
-* `/images` → Screenshots
-* `/data` → Dataset (if shareable)
-
----
