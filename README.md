@@ -46,11 +46,11 @@ The goal is to identify cost drivers, spending patterns, and regional variations
 
 ### 📌 Report View
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### 📌 Data Model
 
-![Dashboard](Model View.png)
+![Dashboard](ModelView.png)
 
 ---
 
